@@ -9,6 +9,7 @@ numpy = "*"
 tables = "*"
 
 [dev-packages]
+notebook = ">=5.7.2"
 
 [requires]
 python_version = "3.6"
